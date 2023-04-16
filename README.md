@@ -1,5 +1,6 @@
 # Open Source 2023-01 - UPC
-New CRUD with Angular & JSON SERVER
+New CRUD with Angular & JSON SERVER. 
+
 **Please support this project by simply putting a Github star ⭐. 🙏 Thanks**
 
 ## Tutorial: Getting Started
