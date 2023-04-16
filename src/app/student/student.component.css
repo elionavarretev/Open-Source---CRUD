@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+  }
+  
+  .table-wrapper{
+    padding: 20px;
+  }
+  .mat-toolbar.mat-primary {
+    background: #ff1e00;
+    color: #fff;
+  }

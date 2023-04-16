@@ -1,0 +1,43 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Elio Navarrete",
+      "age": "22",
+      "mobile": "Entel",
+      "email": "elio.jeff@upc.edu.pe",
+      "address": "Multi-Sedes"
+    },
+    {
+      "name": "Nicolas Haro",
+      "age": "19",
+      "mobile": "Claro",
+      "email": "ricolas@upc.edu.pe",
+      "address": "Sede Monterrico",
+      "id": 2
+    },
+    {
+      "name": "Jhosaim Pocohuanca",
+      "age": "20",
+      "mobile": "Bitel",
+      "email": "jhosaim@upc.edu.pe",
+      "address": "Sede San Isidro",
+      "id": 3
+    },
+    {
+      "name": "Sebastian Ramirez",
+      "age": "20",
+      "mobile": "Entel",
+      "email": "sebas@upc.edu.pe",
+      "address": "Sede San Miguel",
+      "id": 4
+    }  
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "boddy": "some",
+      "postId": 1
+    }
+  ]
+}
