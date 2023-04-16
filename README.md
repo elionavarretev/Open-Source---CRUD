@@ -4,7 +4,7 @@ New CRUD with Angular & JSON SERVER.
 **Please support this project by simply putting a Github star ⭐. 🙏 Thanks**
 
 <div>
-  <p><img src="https://i.imgur.com/0MxujmK.png" alt="UPC" width="800"></p>
+  <p><img src="https://github.com/elionavarretev/Open-Source---CRUD/blob/main/src/assets/imgs/one.PNG" alt="UPC" width="800"></p>
 </div>
 
 ## Tutorial: Getting Started
