@@ -3,6 +3,10 @@ New CRUD with Angular & JSON SERVER.
 
 **Please support this project by simply putting a Github star ⭐. 🙏 Thanks**
 
+<div>
+  <p><img src="https://i.imgur.com/0MxujmK.png" alt="UPC" width="800"></p>
+</div>
+
 ## Tutorial: Getting Started
 
 Follow the steps below to see how this library works.
@@ -10,7 +14,7 @@ Follow the steps below to see how this library works.
 1. Clone this repository.
 
     ```
-    git clone https://github.com/
+    git clone https://github.com/elionavarretev/Open-Source---CRUD.git
     ```
 
 2. Build the angular-material-crud schematic:
